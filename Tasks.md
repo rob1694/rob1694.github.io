@@ -26,4 +26,4 @@ CSS
 ------------------------------------------------------------
 JS
 * Create array of steps
-* 
+* Seperate Steps into something interesting using js

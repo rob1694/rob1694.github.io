@@ -7,6 +7,9 @@ header{
     color: rgb(219, 219, 115)
 }
 
+p{
+    text-align: center;
+}
 h3{
     color: linen;
     text-align: center;
