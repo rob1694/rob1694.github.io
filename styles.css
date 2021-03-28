@@ -33,9 +33,17 @@ img{
 }
 
 .steps_Container{
-    display: grid;
     text-align: center;
     display: flex;
     justify-content: space-between;
 }
 
+.step{
+    border-style: initial;
+    border: lavender double 10px;
+    font-size: 16pt;
+    background: darkgoldenrod;
+    border-radius: 10%;
+    width: 250px;
+    height: 300px;
+}
