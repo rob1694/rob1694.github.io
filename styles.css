@@ -1,5 +1,6 @@
 body {
     background-color: rgb(54, 136, 136);
+    font-size: 16pt;
 }
 
 h1{
@@ -41,7 +42,6 @@ img{
 .step{
     border-style: initial;
     border: lavender double 10px;
-    font-size: 16pt;
     background: darkgoldenrod;
     border-radius: 10%;
     width: 250px;
